@@ -1,0 +1,1 @@
+importScripts('/PWANotify/firebase-messaging-sw.js');
